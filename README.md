@@ -75,10 +75,10 @@ git stash
 git status
 
 ```
-##Recupera los cambios cuando los necesites:
-
+## Recupera los cambios cuando los necesites:
+```sh
 git stash pop
-
+```
 ### 🧩 Paso 4: Usar git rebase -i
 ```sh
 ##Visualiza tus commits:
