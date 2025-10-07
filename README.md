@@ -27,6 +27,11 @@ cd git-avanzado-ejercicio
 #### 2-Inicializa el repositorio:
 ```sh
 git init
+git add .
+git commit -m "Agregar"
+git branch -M main
+git remote add origin git@github.com:kenkairon/CursoDeGithubAvanzado.git
+git push -u origin main
 ```
 
 #### 3-Crea un archivo inicial:
